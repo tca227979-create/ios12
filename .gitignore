@@ -1,0 +1,21 @@
+# Xcode user and workspace state
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+
+# Xcode build products and archives
+build/
+DerivedData/
+*.ipa
+*.xcarchive
+
+# macOS and Windows metadata
+.DS_Store
+Thumbs.db
+
+# Unity generated cache/log files, if an export is regenerated here
+Library/
+Temp/
+Logs/
+UserSettings/
